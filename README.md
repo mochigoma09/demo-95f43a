@@ -1,2 +1,3 @@
 # demo-95f43a
-Auto generated demo site for 南阿佐ヶ谷どうぶつ病院
+
+AIによって自動生成された 南阿佐ヶ谷どうぶつ病院 様向けのデモサイトです。
